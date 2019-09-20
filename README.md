@@ -1,2 +1,2 @@
-# obfuscator
+# Obfuscator
 Python obfuscator
